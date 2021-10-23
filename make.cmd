@@ -1,0 +1,1 @@
+pyinstaller -F .\src\pyotpauth.py -i .\google-authenticator.ico --version-file .\file_version_info.txt -n otpauth
