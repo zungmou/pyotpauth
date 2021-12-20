@@ -25,7 +25,7 @@ OtpType = {
 
 HELP = ('Encode a set of otpauth:// into migration format and display the QR code for Google Authenticator to scan and import.'
         '\n\nor'
-        '\n\nDecode the content of the migration format exported from Google Authenticator into a set of otpauth:// '
+        '\n\nDecode the content of the migration format exported from Google Authenticator into a set of otpauth://'
         '\n\nNote: The content to be encoded and decoded is provided in the form of file paths.')
 
 
